@@ -16,7 +16,7 @@ Space - Shoot projectile
 
 Esc - Pause the game
 
-Enter - Resume the game / Fast forward text
+Enter - Fast forward text
 
 Game Screen
 Lives: Represented by a heart icon, these are depleted when you are struck by enemies. If you lose all your lives, the game will end.
